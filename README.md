@@ -51,6 +51,13 @@ This project automates the generation of certificates using Python. It takes a l
 - **Font size**: Modify the font size in the `generate_certificate` function by adjusting the `font` argument in the script.
 - **Text position**: The text is automatically centered, but you can modify the `position` variable to customize placement.
 
+- ## Example
+
+Here’s an example of how the certificate will look:
+
+![Certificate Example](example.png)
+
+
 
 ## License
 
